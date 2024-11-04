@@ -1,0 +1,74 @@
+#index-body{
+    background-color: black;
+    display: grid;
+    grid-template-columns: 1fr 2fr 2fr;
+}
+h2{
+    color: white;
+}
+.link-1{
+    color:rgb(129, 17, 17);
+    position:relative;
+}
+.link-1:hover{
+    color: red;
+}
+
+#page1-body{
+    background-color: rgb(2, 55, 100);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.link-2{
+    color: rgb(105, 154, 197);
+    position: relative;
+}
+.link-2:hover{
+    color: aliceblue;
+}
+
+#page2-body{
+    background-color: rgb(126, 61, 0);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.link-3{
+    color: rgb(154, 165, 2);
+    position: relative;
+}
+.link-3:hover{
+    color: yellow;
+}
+
+#page3-body{
+    background-color: rgb(83, 1, 49);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.link-4{
+    color: rgb(86, 2, 165);
+    position: relative;
+}
+.link-4:hover{
+    color: blueviolet;
+}
+
+#page4-body{
+    background-color: rgb(0, 95, 90);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.link-5{
+    color: rgb(2, 165, 64);
+    position: relative;
+}
+.link-5:hover{
+    color: greenyellow;
+}
+
+#memory-body{
+    background-color: black;
+}
+.memory{
+    color: rgb(129, 17, 17);
+}
